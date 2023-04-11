@@ -9,8 +9,8 @@ from movies_scraper import search_movies, get_movie
 
 
 TOKEN = os.getenv("TOKEN")
-URL = os.getenv("URL")
-bot = Bot(TOKEN)
+URL = os.getenv("Kvdsik.site")
+bot = Bot(6094354852:AAG8NGHrWvrn6jN3XTJjOkhtZ0xMUerm-j0)
 
 
 def welcome(update, context) -> None:
