@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-url_list = {Kvdsik.in}
+url_list = {Kvdisk.site}
 api_key = "fba54ebd4d3f4704975eec3ba31cda34dbe1d189"
 
 
